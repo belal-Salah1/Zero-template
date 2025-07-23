@@ -1,7 +1,7 @@
 # 🌐 Zero Template
 
 A modern and responsive front-end website template built using **HTML**, **CSS**, and **JavaScript**.  
- Live Demo: [🔗 View Demo](https://belal-salah1.github.io/Zero-template/)
+ Live Deploy: [🔗 View Demo](https://belal-salah1.github.io/Zero-template/)
 
 ---
 
